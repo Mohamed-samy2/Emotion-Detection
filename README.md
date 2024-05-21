@@ -13,7 +13,7 @@
 # Project Steps:
 
    **1-** Data Collection:
-          A dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. For more detailed information, please refer to the paper below.
+          Data Collection: A dataset of English Twitter messages containing six basic emotions—anger, fear, joy, love, sadness, and surprise—with 12,000 training examples, 2,000 validation examples, and 2,000 test examples..
 
    **2-** Exploratory Data Analysis (EDA):
         Perform analysis to understand each class distribution, text lengths, and how words affect each emotion.
